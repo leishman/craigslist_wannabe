@@ -20,6 +20,7 @@ gem 'shotgun'
 
 gem 'digest'
 gem 'coinbase'
+gem 'faker'
 
 group :test do
   gem 'faker'
